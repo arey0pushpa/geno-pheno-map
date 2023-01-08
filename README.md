@@ -1,4 +1,4 @@
-# geno-pheno-map
+# Genotype to Phenotype Map
 
 A genotype to phenotype map is a tool that helps scientists understand how an organism's genetics lead to its physical and behavioral traits. This knowledge can be used for medical and agricultural research.
 
